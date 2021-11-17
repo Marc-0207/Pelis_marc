@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: "Marc pelis"
+nav:
+    - 'assignatures.md'
+    - 'menjars.md'
+    - 'videojocs.md'
+    - 'animes.md'
+    - 'entrepans.md'
+
+theme:
+    name: readthedocs
+
+copyright: Mkdocs de Marc Lamolla
